@@ -1,0 +1,5 @@
+Comandos aprendidos hoje:
+ls
+pwd
+mkdir
+touch
