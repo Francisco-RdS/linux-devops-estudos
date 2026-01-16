@@ -1,0 +1,6 @@
+Aula 2 - Comandos Linux
+- mv (renomear/mover)
+- rm (remover arquivos)
+- cat (mostrar conteúdo)
+- less (visualizar arquivos longos)
+- tree (ver estrutura)
