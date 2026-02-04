@@ -1,0 +1,7 @@
+Aula 3 - Permissões Linux
+
+- ls -l
+- chmod
+- Permissões: rwx
+- Erros comuns de Permission denied
+- Importância para containers e DevOps
