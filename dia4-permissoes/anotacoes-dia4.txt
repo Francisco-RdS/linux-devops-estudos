@@ -1,0 +1,7 @@
+Dia 4 - Permissões Linux
+
+Aprendi a:
+- Ler permissões com ls -l
+- Entender dono, grupo e outros
+- Diferença de permissões em arquivos e diretórios
+- Importância do bit x em diretórios
